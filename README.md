@@ -8,4 +8,4 @@ mdtjan1/feature1
 
 mdtjan/feature2
 
-[mdtjan] make one commit ahead of mdtjan1
+[mdtjan] something
