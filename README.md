@@ -20,4 +20,4 @@ mdtjan1/featureA
 
 mdtjan/featureB
 
-mdtjan/featureC
+mdtjan1/featureB !
