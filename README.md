@@ -11,3 +11,5 @@ mdtjan/feature2
 [mdtjan] something
 
 mdtjan/feature1
+
+mdtjan/featureX
