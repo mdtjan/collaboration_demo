@@ -9,3 +9,5 @@ mdtjan1/feature1
 mdtjan/feature2
 
 [mdtjan] something
+
+mdtjan/feature1
